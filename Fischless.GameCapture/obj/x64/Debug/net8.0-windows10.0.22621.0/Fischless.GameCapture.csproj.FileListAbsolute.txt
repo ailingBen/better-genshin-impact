@@ -1,0 +1,12 @@
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\bin\x64\Debug\net8.0-windows10.0.22621.0\Fischless.GameCapture.deps.json
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\bin\x64\Debug\net8.0-windows10.0.22621.0\Fischless.GameCapture.dll
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\bin\x64\Debug\net8.0-windows10.0.22621.0\Fischless.GameCapture.pdb
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.GameCapture.csproj.AssemblyReference.cache
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.GameCapture.GeneratedMSBuildEditorConfig.editorconfig
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.GameCapture.AssemblyInfoInputs.cache
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.GameCapture.AssemblyInfo.cs
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.GameCapture.csproj.CoreCompileInputs.cache
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.GameCapture.dll
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\refint\Fischless.GameCapture.dll
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.GameCapture.pdb
+d:\TZP\下载\better-genshin-impact-main\Fischless.GameCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\ref\Fischless.GameCapture.dll

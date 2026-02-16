@@ -86,13 +86,7 @@ public partial class App : Application
                 }
 
                 Log.Logger = loggerConfiguration.CreateLogger();
-                services.AddSingleton<IMissingTranslationReporter, SupabaseMissingTranslationReporter>();
-                services.AddSingleton<ITranslationService, JsonTranslationService>();
-                services.AddLogging(logging =>
-                {
-                    logging.ClearProviders();
-                    logging.Services.AddSingleton<ILoggerProvider, TranslatingSerilogLoggerProvider>();
-                });
+                services.AddLogging(c => c.AddSerilog());
 
                 services.AddLocalization();
 
@@ -124,6 +118,7 @@ public partial class App : Application
                 services.AddView<JsListPage, JsListViewModel>();
                 services.AddView<MapPathingPage, MapPathingViewModel>();
                 services.AddView<OneDragonFlowPage, OneDragonFlowViewModel>();
+                services.AddView<NavigationSettingsPage, NavigationSettingsPageViewModel>();
                 services.AddSingleton<PathingConfigViewModel>();
                 // services.AddView<PathingConfigView, PathingConfigViewModel>();
                 services.AddView<KeyBindingsSettingsPage, KeyBindingsSettingsPageViewModel>();
@@ -148,6 +143,7 @@ public partial class App : Application
                 services.AddSingleton<HutaoNamedPipe>();
                 services.AddSingleton<BgiOnnxFactory>();
                 services.AddSingleton<OcrFactory>();
+                services.AddSingleton<BetterGenshinImpact.Core.Navigation.NavigationManager>();
                 services.AddMemoryCache();
                 services.AddSingleton<IAppCache, CachingService>();
                 services.AddSingleton<MemoryFileCache>();

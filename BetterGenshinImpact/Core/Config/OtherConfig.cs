@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using BetterGenshinImpact.Core.Recognition;
 using BetterGenshinImpact.Model;
 using CommunityToolkit.Mvvm.ComponentModel;

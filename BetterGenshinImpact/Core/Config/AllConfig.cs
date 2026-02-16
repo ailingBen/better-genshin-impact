@@ -253,6 +253,11 @@ public partial class AllConfig : ObservableObject
     /// </summary>
     public HardwareAccelerationConfig HardwareAccelerationConfig { get; set; } = new();
 
+    /// <summary>
+    /// 导航系统配置
+    /// </summary>
+    public NavigationConfig NavigationConfig { get; set; } = new();
+
     [JsonIgnore]
     public Action? OnAnyChangedAction { get; set; }
 
@@ -288,6 +293,7 @@ public partial class AllConfig : ObservableObject
         DevConfig.PropertyChanged += OnAnyPropertyChanged;
         HardwareAccelerationConfig.PropertyChanged += OnAnyPropertyChanged;
         SkillCdConfig.PropertyChanged += OnAnyPropertyChanged;
+        NavigationConfig.PropertyChanged += OnAnyPropertyChanged;
     }
 
     public void OnAnyPropertyChanged(object? sender, EventArgs args)

@@ -1,0 +1,12 @@
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\bin\x64\Debug\net8.0-windows10.0.22621.0\Fischless.HotkeyCapture.deps.json
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\bin\x64\Debug\net8.0-windows10.0.22621.0\Fischless.HotkeyCapture.dll
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\bin\x64\Debug\net8.0-windows10.0.22621.0\Fischless.HotkeyCapture.pdb
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.HotkeyCapture.csproj.AssemblyReference.cache
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.HotkeyCapture.GeneratedMSBuildEditorConfig.editorconfig
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.HotkeyCapture.AssemblyInfoInputs.cache
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.HotkeyCapture.AssemblyInfo.cs
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.HotkeyCapture.csproj.CoreCompileInputs.cache
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.HotkeyCapture.dll
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\refint\Fischless.HotkeyCapture.dll
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\Fischless.HotkeyCapture.pdb
+d:\TZP\下载\better-genshin-impact-main\Fischless.HotkeyCapture\obj\x64\Debug\net8.0-windows10.0.22621.0\ref\Fischless.HotkeyCapture.dll

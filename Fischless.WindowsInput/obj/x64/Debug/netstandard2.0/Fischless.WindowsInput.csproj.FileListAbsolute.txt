@@ -1,0 +1,10 @@
+d:\TZP\下载\better-genshin-impact-main\Fischless.WindowsInput\bin\x64\Debug\netstandard2.0\Fischless.WindowsInput.deps.json
+d:\TZP\下载\better-genshin-impact-main\Fischless.WindowsInput\bin\x64\Debug\netstandard2.0\Fischless.WindowsInput.dll
+d:\TZP\下载\better-genshin-impact-main\Fischless.WindowsInput\bin\x64\Debug\netstandard2.0\Fischless.WindowsInput.pdb
+d:\TZP\下载\better-genshin-impact-main\Fischless.WindowsInput\obj\x64\Debug\netstandard2.0\Fischless.WindowsInput.csproj.AssemblyReference.cache
+d:\TZP\下载\better-genshin-impact-main\Fischless.WindowsInput\obj\x64\Debug\netstandard2.0\Fischless.WindowsInput.GeneratedMSBuildEditorConfig.editorconfig
+d:\TZP\下载\better-genshin-impact-main\Fischless.WindowsInput\obj\x64\Debug\netstandard2.0\Fischless.WindowsInput.AssemblyInfoInputs.cache
+d:\TZP\下载\better-genshin-impact-main\Fischless.WindowsInput\obj\x64\Debug\netstandard2.0\Fischless.WindowsInput.AssemblyInfo.cs
+d:\TZP\下载\better-genshin-impact-main\Fischless.WindowsInput\obj\x64\Debug\netstandard2.0\Fischless.WindowsInput.csproj.CoreCompileInputs.cache
+d:\TZP\下载\better-genshin-impact-main\Fischless.WindowsInput\obj\x64\Debug\netstandard2.0\Fischless.WindowsInput.dll
+d:\TZP\下载\better-genshin-impact-main\Fischless.WindowsInput\obj\x64\Debug\netstandard2.0\Fischless.WindowsInput.pdb
